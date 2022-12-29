@@ -50,14 +50,6 @@ body {
     cursor: pointer;
 }
 
-#results p:first-of-type {
-    margin-bottom: 10px;
-}
-
-#results p:last-of-type {
-    font-weight: bold;
-}
-
 #results div {
     margin-bottom: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -103,7 +95,7 @@ body {
     }
 
     #results p {
-        margin: 0;
+        margin: 5px;
         font-size: 18px;
         line-height: 1.5;
     }
